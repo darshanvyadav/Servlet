@@ -1,0 +1,14 @@
+127.0.0.1 - - [22/Jul/2018:18:04:00 -0400] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:04:01 -0400] "GET /APP3/ HTTP/1.1" 200 259
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:04:31 -0400] "GET /APP3/LoginServlet?uname=darshan&upwd=darshan HTTP/1.1" 200 318
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:06:07 -0400] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:06:07 -0400] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:06:21 -0400] "GET /APP3 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:06:21 -0400] "GET /APP3/ HTTP/1.1" 200 259
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:06:32 -0400] "GET /APP3/LoginServlet?uname=Darshan&upwd=Darshan HTTP/1.1" 200 62
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:14:34 -0400] "GET /APP3/LoginServlet?uname=Darshan&upwd=Darshan HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:14:35 -0400] "GET /APP3/LoginServlet?uname=Darshan&upwd=Darshan HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:14:36 -0400] "GET /APP3/LoginServlet?uname=Darshan&upwd=Darshan HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:14:37 -0400] "GET /APP3/LoginServlet?uname=Darshan&upwd=Darshan HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [22/Jul/2018:18:14:37 -0400] "GET /APP3/LoginServlet?uname=Darshan&upwd=Darshan HTTP/1.1" 404 1047
+127.0.0.1 - - [22/Jul/2018:18:18:00 -0400] "GET / HTTP/1.1" 404 1074

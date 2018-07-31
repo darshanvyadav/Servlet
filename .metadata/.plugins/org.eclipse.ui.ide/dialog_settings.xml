@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Java 8\Ex_Files_Java_SE_8_NF\Exercise Files\02_Lambdas"/>
+		<item value="D:\Java EE\cdbookstore application\agoncal-application-cdbookstore-master"/>
+		<item value="D:\Java EE\CArgo project\cargotracker-master"/>
+		<item value="Y:\Java\Java Projects files\Web services Spring Project\webyadav"/>
+		<item value="Y:\Java We application step by step\JavaWebApplicationStepByStep-master"/>
+		<item value="C:\Users\Darshanvyadav\Downloads\web apps\New folder\JavaWebApplicationStepByStep-master"/>
+		<item value="C:\Users\Darshanvyadav\Downloads\rest project\Restful-master"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.ui.wizards.new.project" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="299" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>
